@@ -3,7 +3,7 @@
 This is gets rid (or at least moves) all those pesky '{', '}' and ';' that we all hate (dont we?)
 
 ## Web version
-No need to install anything - if you prefer you can just head over [here](https://format.johnmontgomery.tech) in order to shitify your code online!
+No need to install anything - if you prefer you can just head over [here](https://johnmontgomery.tech/format) in order to shitify your code online!
 
 ## Installation
 
